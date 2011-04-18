@@ -37,6 +37,8 @@ this course.
 * Fried, Jason; Hansson, David Heinemeier; and Linderman, Matthew. _Getting Real: The smarter,
   faster, easier way to build a successful web application_. 37signals, 2009. Available:
   <http://gettingreal.37signals.com/toc.php>
+* Hoekman, Robert. _Designing the Obvious: A Common Sense Approach to Web & Mobile Application
+  Design_ (2nd Edition). Berkeley, CA: New Riders, 2010.
 * Keith, Jeremy. _DOM Scripting: Web Design with JavaScript and
   the Document Object Model_. Friends of ED, 2005. ISBN: 978-1590595336
 * Keith, Jeremy. _HTML5 for Web Designers_. A Book Apart, 2010.
