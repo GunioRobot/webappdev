@@ -64,6 +64,7 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 
 ### Week Seven - Ruby II
 * In Class:
+    * Reading discussion
     * Build Sinatra application together
     * ...
 * To Read:
@@ -72,6 +73,8 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 
 ### Week Eight - _Getting Real_/Agile Methods II
 * In Class:
+    * Reading discussion
+    * Tying up loose ends of Ruby
     * ...
 * To Read:
     * _Pragmatic Guide to Git_, Parts 4, 7, and 8
@@ -79,6 +82,8 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 
 ### Week Nine - Collaboration on Git Repositories
 * In Class:
+    * Reading discussion
+    * Remote repository structure and interaction
     * ...
 * To Read:
     * Agile Development with Rails, Part 1; Part 2, Tasks A - G; Part 3, Chapter 22
@@ -86,6 +91,8 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 
 ### Week Ten - Ruby on Rails I
 * In Class:
+    * Reading discussion
+    * Rails project walk-through
     * ...
 * To Read:
     * Agile Development with Rails, Part 2, Tasks H - K; Chapter 21; Part 3, Chapter 22-31
@@ -93,24 +100,34 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 
 ### Week Eleven - Ruby on Rails II
 * In Class:
+    * Reading discussion
+    * Project work time
     * ...
 
 ### Week Twelve - Project Work Week
 * In Class:
+    * Project work time
+    * In-progress project presentations
     * ...
 
 ### Week Thirteen - Project 2 Due
 * In Class:
+    * Project work time
+    * In-progress project presentations
     * ...
 * To Read:
+    * Designing the Obvious
     * ...
 
 ### Week Fourteen - Mobile Design: Media Queries, jQuery
 * In Class:
+    * Reading discussion
+    * Project work time
     * ...
 
 ### Week Fifteen - Project Work Week
 * In Class:
+    * Project work time
     * ...
 
 ### Exam Week - Final Meeting Time for Project Presentation TBA
